@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Pack toi uu hoa cuc doan cho Oppo A58 - Chip Helio G85",
+    "name": "§bOppo A58 §cUltra Boost FPS",
+    "uuid": "da39a3ee-5e5b-4b12-9c1d-2f8457c61102",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Xoa hieu ung va dong bang hoat anh de tang FPS",
+      "type": "resources",
+      "uuid": "e3b0c442-98fc-1c14-9afbf-4c8996fb9242",
+      "version": [1, 0, 0]
+    }
+  ]
+}
